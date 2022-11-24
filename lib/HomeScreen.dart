@@ -133,7 +133,7 @@ child:MaterialButton(
    
    date='DATE EXPIRATION';
 marque='MARQUE VEHICULE';
-nomC=bn.ListePer.elementAt(1).getNom();
+//nomC=bn.ListePer.elementAt(1).getNom();
 police='NUM Police';
 type='TYPE ASSURANCE';
    msp = 'oui';
